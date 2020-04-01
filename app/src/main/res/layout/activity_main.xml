@@ -31,4 +31,6 @@
         app:layout_anchorGravity="center"
         app:popupTheme="@style/AppTheme.PopupOverlay" />
 
+    <include layout="@layout/content_main"/>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
